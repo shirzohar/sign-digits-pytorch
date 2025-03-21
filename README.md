@@ -13,8 +13,8 @@ The project includes:
 ## 📂 Files
 ```
 sign-language-classification/
-├── 323856542_213002918_basics_2025.ipynb   # Main Colab notebook
-├── report_323856542_213002918.pdf          # Final project report
+├── basics_2025.ipynb   # Main Colab notebook
+├── report.pdf          # Final project report
 ├── README.md                               # Project overview and usage
 ├── requirements.txt                        # Python dependencies
 ```
